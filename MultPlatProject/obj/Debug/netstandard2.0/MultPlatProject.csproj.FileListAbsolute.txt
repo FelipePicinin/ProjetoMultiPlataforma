@@ -1,0 +1,13 @@
+C:\Users\Aluno\Desktop\Felipe Picinin\multiplat_starter\MultPlatProject\bin\Debug\netstandard2.0\MultPlatProject.deps.json
+C:\Users\Aluno\Desktop\Felipe Picinin\multiplat_starter\MultPlatProject\bin\Debug\netstandard2.0\MultPlatProject.dll
+C:\Users\Aluno\Desktop\Felipe Picinin\multiplat_starter\MultPlatProject\bin\Debug\netstandard2.0\MultPlatProject.pdb
+C:\Users\Aluno\Desktop\Felipe Picinin\multiplat_starter\MultPlatProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aluno\Desktop\Felipe Picinin\multiplat_starter\MultPlatProject\obj\Debug\netstandard2.0\AuthorsPage.xaml.g.cs
+C:\Users\Aluno\Desktop\Felipe Picinin\multiplat_starter\MultPlatProject\obj\Debug\netstandard2.0\MultPlatProject.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Felipe Picinin\multiplat_starter\MultPlatProject\obj\Debug\netstandard2.0\MultPlatProject.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Felipe Picinin\multiplat_starter\MultPlatProject\obj\Debug\netstandard2.0\MultPlatProject.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Felipe Picinin\multiplat_starter\MultPlatProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aluno\Desktop\Felipe Picinin\multiplat_starter\MultPlatProject\obj\Debug\netstandard2.0\MultPlatProject.dll
+C:\Users\Aluno\Desktop\Felipe Picinin\multiplat_starter\MultPlatProject\obj\Debug\netstandard2.0\MultPlatProject.pdb
+C:\Users\Aluno\Desktop\Felipe Picinin\multiplat_starter\MultPlatProject\obj\Debug\netstandard2.0\BooksPage.xaml.g.cs
+C:\Users\Aluno\Desktop\Felipe Picinin\multiplat_starter\MultPlatProject\obj\Debug\netstandard2.0\NewAuthorPage.xaml.g.cs
